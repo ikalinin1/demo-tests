@@ -1,0 +1,39 @@
+[
+   {
+      "id" : "82667e72-e690-4fd9-b0a3-433ed51fcb98",
+      "name" : "Sweden",
+      "countryCode" : "SE",
+      "currency" : "SEK",
+      "externalId" : 2,
+      "timezone" : "Europe/Stockholm",
+      "companyName" : "JOE & THE JUICE NG AB",
+      "companyVatNumber" : "5569222705",
+      "companyAddress" : "Kungsgatan 35, 111 56 Stockholm",
+      "country" : "Sweden",
+      "merchantAccount" : "JJ-SE-ECOM",
+      "applePayWebMerchantId" : null,
+      "createdAt" : "2017-10-11T06:40:15.506Z",
+      "updatedAt" : "2023-01-18T12:35:43.388Z",
+      "deletedAt" : null,
+      "taxes" : [
+         {
+            "marketId" : "82667e72-e690-4fd9-b0a3-433ed51fcb98",
+            "amount" : 12.5,
+            "type" : "VAT",
+            "name" : "Moms SE"
+         },
+         {
+            "marketId" : "82667e72-e690-4fd9-b0a3-433ed51fcb98",
+            "amount" : 12,
+            "type" : "VAT",
+            "name" : "SE VAT"
+         },
+         {
+            "marketId" : "82667e72-e690-4fd9-b0a3-433ed51fcb98",
+            "amount" : 25,
+            "type" : "VAT",
+            "name" : "testVAT"
+         }
+      ]
+   }
+]

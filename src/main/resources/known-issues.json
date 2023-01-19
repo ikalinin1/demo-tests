@@ -1,2 +1,10 @@
 {
+    "JJ-1": {
+        "type": "Internal",
+        "assertionPattern": "Visual check passed \\[The condition is false\\]",
+        "storyPattern": "UI",
+        "scenarioPattern": "Open Login form",
+        "stepPattern": "When I compare against baseline with name `failure-example`",
+        "description": "Expected failure of visual check"
+    }
 }

@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "96aaa43b-ed71-4976-b0b3-169d46e691d2",
+    "name": "Denmark",
+    "countryCode": "DK",
+    "currency": "DKK",
+    "externalId": 1,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "JOE & THE JUICE A/S",
+    "companyVatNumber": "DK26589355",
+    "companyAddress": "Østergade 26A, 1100 København Kd",
+    "country": "Denmark",
+    "merchantAccount": "JJ-DK-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.505Z",
+    "updatedAt": "2023-01-18T12:35:43.383Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "96aaa43b-ed71-4976-b0b3-169d46e691d2",
+        "amount": 25,
+        "type": "VAT",
+        "name": "Moms"
+      },
+      {
+        "marketId": "96aaa43b-ed71-4976-b0b3-169d46e691d2",
+        "amount": 123,
+        "type": "SalesTax",
+        "name": "Tax rate test"
+      }
+    ],
+    "location": {
+      "latitude": 55.686724,
+      "longitude": 12.570072
+    }
+  },
+  {
+    "id": "82667e72-e690-4fd9-b0a3-433ed51fcb98",
+    "name": "Sweden",
+    "countryCode": "SE",
+    "currency": "SEK",
+    "externalId": 2,
+    "timezone": "Europe/Stockholm",
+    "companyName": "JOE & THE JUICE NG AB",
+    "companyVatNumber": "5569222705",
+    "companyAddress": "Kungsgatan 35, 111 56 Stockholm",
+    "country": "Sweden",
+    "merchantAccount": "JJ-SE-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.506Z",
+    "updatedAt": "2023-01-18T12:35:43.388Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "82667e72-e690-4fd9-b0a3-433ed51fcb98",
+        "amount": 12.5,
+        "type": "VAT",
+        "name": "Moms SE"
+      },
+      {
+        "marketId": "82667e72-e690-4fd9-b0a3-433ed51fcb98",
+        "amount": 12,
+        "type": "VAT",
+        "name": "SE VAT"
+      },
+      {
+        "marketId": "82667e72-e690-4fd9-b0a3-433ed51fcb98",
+        "amount": 25,
+        "type": "VAT",
+        "name": "testVAT"
+      }
+    ]
+  },
+  {
+    "id": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+    "name": "United Kingdom",
+    "countryCode": "GB",
+    "currency": "GBP",
+    "externalId": 6,
+    "timezone": "Europe/London",
+    "companyName": "JOE & THE JUICE UK Ltd",
+    "companyVatNumber": "GB977961448",
+    "companyAddress": "46 Dean Street, W1D 4QD London",
+    "country": "United Kingdom of Great Britain and Northern Irela",
+    "merchantAccount": "JJ-UK-Ecom",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.506Z",
+    "updatedAt": "2023-01-18T12:35:43.402Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+        "amount": 0,
+        "type": "VAT",
+        "name": "VAT TO GO"
+      },
+      {
+        "marketId": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+        "amount": 20,
+        "type": "VAT",
+        "name": "VAT TO STAY"
+      },
+      {
+        "marketId": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+        "amount": 5,
+        "type": "VAT",
+        "name": "VAT TO STAY"
+      },
+      {
+        "marketId": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+        "amount": 5,
+        "type": "VAT",
+        "name": "VAT TO GO"
+      },
+      {
+        "marketId": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+        "amount": 20,
+        "type": "VAT",
+        "name": "VAT TO GO"
+      },
+      {
+        "marketId": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+        "amount": 0,
+        "type": "VAT",
+        "name": "VAT TO STAY"
+      },
+      {
+        "marketId": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+        "amount": 12.5,
+        "type": "VAT",
+        "name": "VAT TO STAY"
+      },
+      {
+        "marketId": "286663a2-7c7a-4d26-bccf-0e0594c3bbb3",
+        "amount": 12.5,
+        "type": "VAT",
+        "name": "VAT TO GO"
+      }
+    ]
+  },
+  {
+    "id": "a109b782-1ad2-4256-9826-9afbdf829627",
+    "name": "Germany",
+    "countryCode": "DE",
+    "currency": "EUR",
+    "externalId": 7,
+    "timezone": "Europe/Berlin",
+    "companyName": "JOE & THE JUICE BLEICHENHOF GmbH",
+    "companyVatNumber": "DE292421125",
+    "companyAddress": "Grosse Bleichen 35, 20354 Hamburg",
+    "country": "Germany",
+    "merchantAccount": "JJ-DE-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2022-05-27T09:36:07.302Z",
+    "updatedAt": "2023-01-18T12:35:43.404Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "a109b782-1ad2-4256-9826-9afbdf829627",
+        "amount": 7,
+        "type": "VAT",
+        "name": "VAT 7%"
+      },
+      {
+        "marketId": "a109b782-1ad2-4256-9826-9afbdf829627",
+        "amount": 19,
+        "type": "VAT",
+        "name": "VAT 19%"
+      },
+      {
+        "marketId": "a109b782-1ad2-4256-9826-9afbdf829627",
+        "amount": 5,
+        "type": "VAT",
+        "name": "VAT 5%"
+      },
+      {
+        "marketId": "a109b782-1ad2-4256-9826-9afbdf829627",
+        "amount": 16,
+        "type": "VAT",
+        "name": "VAT 16%"
+      }
+    ]
+  },
+  {
+    "id": "98378c08-601a-4cb9-91a3-65b9ebe5ab9f",
+    "name": "Norway",
+    "countryCode": "NO",
+    "currency": "NOK",
+    "externalId": 13,
+    "timezone": "Europe/Oslo",
+    "companyName": "JOE & THE JUICE NORGE AS",
+    "companyVatNumber": "911738066MVA",
+    "companyAddress": "Karl Johans Gate 20, 0157 Oslo",
+    "country": "Norway",
+    "merchantAccount": "JJ-NO-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.521Z",
+    "updatedAt": "2023-01-18T12:35:43.406Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "98378c08-601a-4cb9-91a3-65b9ebe5ab9f",
+        "amount": 25,
+        "type": "VAT",
+        "name": "To Stay"
+      },
+      {
+        "marketId": "98378c08-601a-4cb9-91a3-65b9ebe5ab9f",
+        "amount": 15,
+        "type": "VAT",
+        "name": "To Go"
+      }
+    ]
+  },
+  {
+    "id": "4719d1f2-200e-480b-8272-141f4dc9f353",
+    "name": "Iceland",
+    "countryCode": "IS",
+    "currency": "ISK",
+    "externalId": 14,
+    "timezone": "Atlantic/Reykjavik",
+    "companyName": "Joe Ísland ehf.",
+    "companyVatNumber": "114524",
+    "companyAddress": "Laugavegur 10",
+    "country": "Iceland",
+    "merchantAccount": "JJ-Franchise-IS-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2022-05-27T09:36:07.310Z",
+    "updatedAt": "2023-01-18T12:35:43.408Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "4719d1f2-200e-480b-8272-141f4dc9f353",
+        "amount": 11,
+        "type": "VAT",
+        "name": "VAT"
+      },
+      {
+        "marketId": "4719d1f2-200e-480b-8272-141f4dc9f353",
+        "amount": 7,
+        "type": "VAT",
+        "name": "VAT"
+      },
+      {
+        "marketId": "4719d1f2-200e-480b-8272-141f4dc9f353",
+        "amount": 0,
+        "type": "VAT",
+        "name": "VAT Zero"
+      }
+    ]
+  },
+  {
+    "id": "3e961b89-1deb-4cf5-a4ec-a1786bb65a5c",
+    "name": "France",
+    "countryCode": "FR",
+    "currency": "EUR",
+    "externalId": 15,
+    "timezone": "Europe/Paris",
+    "companyName": "JOE & THE JUICE NICE SARL",
+    "companyVatNumber": "FR31 815173521",
+    "companyAddress": "455 Promenade des Anglais c/o Arena Partners, 06290 Nice",
+    "country": "France",
+    "merchantAccount": "JJ-FR-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.582Z",
+    "updatedAt": "2023-01-18T12:35:43.410Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "3e961b89-1deb-4cf5-a4ec-a1786bb65a5c",
+        "amount": 10,
+        "type": "VAT",
+        "name": "TAUX TVA 10%"
+      },
+      {
+        "marketId": "3e961b89-1deb-4cf5-a4ec-a1786bb65a5c",
+        "amount": 0,
+        "type": "VAT",
+        "name": "Prepaid 0%"
+      }
+    ]
+  },
+  {
+    "id": "b265e200-af96-4205-b979-0ca6b9b106f4",
+    "name": "Singapore",
+    "countryCode": "SG",
+    "currency": "SGD",
+    "externalId": 16,
+    "timezone": "Asia/Singapore",
+    "companyName": "JOE & THE JUICE SINGAPORE",
+    "companyVatNumber": "201511483H",
+    "companyAddress": "No. 2 Alexandra Road, Delta House, 159919 Singapore",
+    "country": "Singapore",
+    "merchantAccount": "JJ-SG-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.582Z",
+    "updatedAt": "2023-01-18T12:35:43.412Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "b265e200-af96-4205-b979-0ca6b9b106f4",
+        "amount": 7,
+        "type": "VAT",
+        "name": "GST"
+      }
+    ]
+  },
+  {
+    "id": "1a89b2d7-50ae-470a-845b-a72239ced1b4",
+    "name": "New York",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 17,
+    "timezone": "America/New_York",
+    "companyName": "JOE & THE JUICE NEW YORK LLC",
+    "companyVatNumber": "38-4024419",
+    "companyAddress": "67 Spring Street, New York, NY 10012",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.582Z",
+    "updatedAt": "2023-01-18T12:35:43.414Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "1a89b2d7-50ae-470a-845b-a72239ced1b4",
+        "amount": 8.875,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "1a89b2d7-50ae-470a-845b-a72239ced1b4",
+        "amount": 8.88,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      }
+    ],
+    "location": {
+      "latitude": 40.712728,
+      "longitude": -74.006015
+    }
+  },
+  {
+    "id": "1b9797b0-eac8-4e7b-9dba-aa77f7fbca46",
+    "name": "Switzerland",
+    "countryCode": "CH",
+    "currency": "CHF",
+    "externalId": 18,
+    "timezone": "Europe/Zurich",
+    "companyName": "JOE & THE JUICE (Switzerland) AG",
+    "companyVatNumber": "CHE-373.008.571",
+    "companyAddress": "Mühlebachstrasse 40 8008 Zürich",
+    "country": "Switzerland",
+    "merchantAccount": "JJ-CH-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.582Z",
+    "updatedAt": "2023-01-18T12:35:43.415Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "1b9797b0-eac8-4e7b-9dba-aa77f7fbca46",
+        "amount": 2.5,
+        "type": "VAT",
+        "name": "VAT Reduced"
+      },
+      {
+        "marketId": "1b9797b0-eac8-4e7b-9dba-aa77f7fbca46",
+        "amount": 8,
+        "type": "VAT",
+        "name": "VAT"
+      },
+      {
+        "marketId": "1b9797b0-eac8-4e7b-9dba-aa77f7fbca46",
+        "amount": 7.7,
+        "type": "VAT",
+        "name": "VAT"
+      }
+    ]
+  },
+  {
+    "id": "982019b3-0637-4717-8a9f-2f5fea1bd9ea",
+    "name": "Korea",
+    "countryCode": "KR",
+    "currency": "KRW",
+    "externalId": 19,
+    "timezone": "Asia/Seoul",
+    "companyName": "",
+    "companyVatNumber": "",
+    "companyAddress": "",
+    "country": "",
+    "merchantAccount": null,
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.600Z",
+    "updatedAt": "2023-01-18T12:35:43.417Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "982019b3-0637-4717-8a9f-2f5fea1bd9ea",
+        "amount": 10,
+        "type": "VAT",
+        "name": "GST"
+      }
+    ]
+  },
+  {
+    "id": "a2494179-faa8-4318-8704-5705ff5e9bc2",
+    "name": "Australia",
+    "countryCode": "AU",
+    "currency": "AUD",
+    "externalId": 21,
+    "timezone": "Australia/Sydney",
+    "companyName": "JOE & THE JUICE SYDNEY PTY. Limited",
+    "companyVatNumber": "85 608 013 234",
+    "companyAddress": "Level 53, MLC Centre, 19 Martin Place, Sydney NSW 2000",
+    "country": "Australia",
+    "merchantAccount": "JJ-AU-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.615Z",
+    "updatedAt": "2023-01-18T12:35:43.419Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "a2494179-faa8-4318-8704-5705ff5e9bc2",
+        "amount": 10,
+        "type": "VAT",
+        "name": "GST"
+      }
+    ]
+  },
+  {
+    "id": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+    "name": "San Francisco",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 22,
+    "timezone": "America/Los_Angeles",
+    "companyName": "JOE & THE JUICE SFO LLC",
+    "companyVatNumber": "47-5382029",
+    "companyAddress": "200 Page Mill Road, Suite 100, Palo Alto, CA 94306",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.615Z",
+    "updatedAt": "2023-01-18T12:35:43.421Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 8.5,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 8.75,
+        "type": "SalesTax",
+        "name": "Sales Tax (INT)"
+      },
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 9,
+        "type": "SalesTax",
+        "name": "Sales Tax (BU)"
+      },
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 8.5,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      },
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 8.75,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax (INT)"
+      },
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 9,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax (BU)"
+      },
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 9.25,
+        "type": "SalesTax",
+        "name": "Sales Tax 9,25"
+      },
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 9.25,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax 9,25"
+      },
+      {
+        "marketId": "29dab71f-69e6-4aff-91ff-0e2dd99fa38a",
+        "amount": 8.25,
+        "type": "SalesTax",
+        "name": "Sales Tax (8.25)"
+      }
+    ],
+    "location": {
+      "latitude": 37.75770366406277,
+      "longitude": -122.44978914240426
+    }
+  },
+  {
+    "id": "d49c0868-87c9-4051-abf2-122a2638fb3d",
+    "name": "Miami",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 23,
+    "timezone": "America/New_York",
+    "companyName": "JOE & THE JUICE MIAMI LLC",
+    "companyVatNumber": "81-1565841",
+    "companyAddress": "67 Spring Street, New York, NY 10012",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.615Z",
+    "updatedAt": "2023-01-18T12:35:43.423Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "d49c0868-87c9-4051-abf2-122a2638fb3d",
+        "amount": 7,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      }
+    ],
+    "location": {
+      "latitude": 25.7710694824701,
+      "longitude": -80.21212289478463
+    }
+  },
+  {
+    "id": "c6fb9fee-a635-4fa5-a5f4-38efe3f28b53",
+    "name": "Finland",
+    "countryCode": "FI",
+    "currency": "EUR",
+    "externalId": 24,
+    "timezone": "Europe/Helsinki",
+    "companyName": "JOE & THE JUICE FINLAND OY",
+    "companyVatNumber": "2770989-6",
+    "companyAddress": "c/o Lexia Attorneys Ltd Kalevankatu 20, 00100 Helsinki",
+    "country": "Finland",
+    "merchantAccount": "JJ-FI-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.632Z",
+    "updatedAt": "2023-01-18T12:35:43.425Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "c6fb9fee-a635-4fa5-a5f4-38efe3f28b53",
+        "amount": 14,
+        "type": "VAT",
+        "name": "VAT"
+      }
+    ]
+  },
+  {
+    "id": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+    "name": "Los Angeles",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 26,
+    "timezone": "America/Los_Angeles",
+    "companyName": "JOE & THE JUICE LA LLC",
+    "companyVatNumber": "82-0918502",
+    "companyAddress": "67 Spring Street, New York, NY 10012",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.655Z",
+    "updatedAt": "2023-01-18T12:35:43.428Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+        "amount": 9.25,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+        "amount": 8.75,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+        "amount": 9.5,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+        "amount": 10.5,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+        "amount": 9.5,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      },
+      {
+        "marketId": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+        "amount": 9.25,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      },
+      {
+        "marketId": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+        "amount": 8.75,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      },
+      {
+        "marketId": "6fc9d2de-0b02-442a-8f9d-58ab22a93d55",
+        "amount": 10.5,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      }
+    ],
+    "location": {
+      "latitude": 34.098307952013414,
+      "longitude": -118.33774715554487
+    }
+  },
+  {
+    "id": "9434633b-7576-43e0-99c5-79c125fe1aec",
+    "name": "Chicago",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 27,
+    "timezone": "America/Chicago",
+    "companyName": "JOE & THE JUICE ILLINOIS LLC",
+    "companyVatNumber": "81-5213830",
+    "companyAddress": "67 Spring Street, New York, NY 10012",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.656Z",
+    "updatedAt": "2023-01-18T12:35:43.430Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "9434633b-7576-43e0-99c5-79c125fe1aec",
+        "amount": 10.25,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "9434633b-7576-43e0-99c5-79c125fe1aec",
+        "amount": 11.25,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "9434633b-7576-43e0-99c5-79c125fe1aec",
+        "amount": 10.25,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      },
+      {
+        "marketId": "9434633b-7576-43e0-99c5-79c125fe1aec",
+        "amount": 11.25,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      }
+    ],
+    "location": {
+      "latitude": 41.86952131210898,
+      "longitude": -87.6496674970297
+    }
+  },
+  {
+    "id": "b0bb3de3-550d-4152-a9cc-e42fbe5523bb",
+    "name": "Washington",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 28,
+    "timezone": "America/New_York",
+    "companyName": "JOE & THE JUICE WASHINGTON LLC",
+    "companyVatNumber": "82-1024766",
+    "companyAddress": "67 Spring Street, New York, NY 10012",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.659Z",
+    "updatedAt": "2023-01-18T12:35:43.433Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "b0bb3de3-550d-4152-a9cc-e42fbe5523bb",
+        "amount": 6,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "b0bb3de3-550d-4152-a9cc-e42fbe5523bb",
+        "amount": 6,
+        "type": "VAT",
+        "name": "POS 1 Sales Tax"
+      }
+    ],
+    "location": {
+      "latitude": 38.8901977547074,
+      "longitude": -77.00909341719488
+    }
+  },
+  {
+    "id": "282c0f58-4d63-407f-9f51-4f5c97e700e9",
+    "name": "The Netherlands",
+    "countryCode": "NL",
+    "currency": "EUR",
+    "externalId": 29,
+    "timezone": "Europe/Amsterdam",
+    "companyName": "JOE & THE JUICE NETHERLANDS B.V",
+    "companyVatNumber": "NL 857408859B01",
+    "companyAddress": "Cornelis Schuytstraat 50 H, 1071JL Amsterdam",
+    "country": "Netherlands",
+    "merchantAccount": "JJ-NL-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.660Z",
+    "updatedAt": "2023-01-18T12:35:43.435Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "282c0f58-4d63-407f-9f51-4f5c97e700e9",
+        "amount": 6,
+        "type": "VAT",
+        "name": "VAT"
+      },
+      {
+        "marketId": "282c0f58-4d63-407f-9f51-4f5c97e700e9",
+        "amount": 9,
+        "type": "VAT",
+        "name": "VAT"
+      }
+    ]
+  },
+  {
+    "id": "4a70e23c-5b12-49c0-8503-6fb1efca412e",
+    "name": "Belgium",
+    "countryCode": "BE",
+    "currency": "EUR",
+    "externalId": 32,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "JOE & THE JUICE BELGIUM NV",
+    "companyVatNumber": "BE 0719414356",
+    "companyAddress": "1930 Zaventem, Luchthaven Brussel Nationaal 1K",
+    "country": "Belgium",
+    "merchantAccount": "JJ-BE-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2019-03-31T22:00:37.579Z",
+    "updatedAt": "2023-01-18T12:35:43.438Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "4a70e23c-5b12-49c0-8503-6fb1efca412e",
+        "amount": 21,
+        "type": "VAT",
+        "name": "To Stay (Bev.)"
+      },
+      {
+        "marketId": "4a70e23c-5b12-49c0-8503-6fb1efca412e",
+        "amount": 12,
+        "type": "VAT",
+        "name": "To Stay (Food)"
+      },
+      {
+        "marketId": "4a70e23c-5b12-49c0-8503-6fb1efca412e",
+        "amount": 6,
+        "type": "VAT",
+        "name": "6%"
+      }
+    ]
+  },
+  {
+    "id": "1233d94f-f134-451a-86ee-6ccbed0c6005",
+    "name": "San Diego",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 33,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "JOE & THE JUICE SAN DIEGO LLC",
+    "companyVatNumber": "38-4024419",
+    "companyAddress": "67 Spring Street, New York, NY 10012",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2021-05-05T20:00:04.548Z",
+    "updatedAt": "2023-01-18T12:35:43.443Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "1233d94f-f134-451a-86ee-6ccbed0c6005",
+        "amount": 7.75,
+        "type": "SalesTax",
+        "name": "Sales Taxs"
+      },
+      {
+        "marketId": "1233d94f-f134-451a-86ee-6ccbed0c6005",
+        "amount": 8.5,
+        "type": "SalesTax",
+        "name": "Sales Tax Fix"
+      }
+    ],
+    "location": {
+      "latitude": 32.81669992417802,
+      "longitude": -117.1535020480051
+    }
+  },
+  {
+    "id": "90266c14-9e03-4593-9942-2dd172fe41b4",
+    "name": "Seattle",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 34,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "JOE & THE JUICE SEATTLE LLC",
+    "companyVatNumber": "38-4024419",
+    "companyAddress": "67 Spring Street, New York, NY 10012",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2019-11-01T13:25:57.219Z",
+    "updatedAt": "2023-01-18T12:35:43.446Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "90266c14-9e03-4593-9942-2dd172fe41b4",
+        "amount": 10.1,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      }
+    ],
+    "location": {
+      "latitude": 47.606770718173976,
+      "longitude": -122.3324758253737
+    }
+  },
+  {
+    "id": "db7fcb55-82ee-4cf8-a957-ed9cbc5b639c",
+    "name": "Airports",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 35,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "JJ-PCG MSP VENTURE, LLC",
+    "companyVatNumber": "82-1024766",
+    "companyAddress": "67 Spring Street, New York, NY 10012",
+    "country": "United States of America",
+    "merchantAccount": "JJ-US-NYC-ECOM",
+    "applePayWebMerchantId": null,
+    "createdAt": "2019-07-31T22:00:19.059Z",
+    "updatedAt": "2023-01-18T12:35:43.450Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "db7fcb55-82ee-4cf8-a957-ed9cbc5b639c",
+        "amount": 7.525,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "db7fcb55-82ee-4cf8-a957-ed9cbc5b639c",
+        "amount": 7,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "db7fcb55-82ee-4cf8-a957-ed9cbc5b639c",
+        "amount": 5,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "db7fcb55-82ee-4cf8-a957-ed9cbc5b639c",
+        "amount": 0,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      },
+      {
+        "marketId": "db7fcb55-82ee-4cf8-a957-ed9cbc5b639c",
+        "amount": 7.52,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      }
+    ]
+  },
+  {
+    "id": "ef41c20c-5f0b-48bf-8d3e-ce919ac911ac",
+    "name": "Minneapolis",
+    "countryCode": "US",
+    "currency": "USD",
+    "externalId": 36,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "",
+    "companyVatNumber": "",
+    "companyAddress": "",
+    "country": "",
+    "merchantAccount": null,
+    "applePayWebMerchantId": null,
+    "createdAt": "2019-08-15T15:15:31.346Z",
+    "updatedAt": "2023-01-18T12:35:43.452Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "ef41c20c-5f0b-48bf-8d3e-ce919ac911ac",
+        "amount": 7.525,
+        "type": "SalesTax",
+        "name": "Sales Tax"
+      }
+    ],
+    "location": {
+      "latitude": 44.95981085216514,
+      "longitude": -93.27399763147004
+    }
+  },
+  {
+    "id": "c6362e44-778f-4020-b48e-bdcdce5645e9",
+    "name": "Saudi Arabia",
+    "countryCode": "SA",
+    "currency": "SAR",
+    "externalId": 38,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "Indpt - Mdar Food Company Ltd",
+    "companyVatNumber": "310096252500003",
+    "companyAddress": "3187 21 Al Olaya Dist.. 408, Al Khobar 34447 - 7530",
+    "country": "Saudi Arabia",
+    "merchantAccount": null,
+    "applePayWebMerchantId": null,
+    "createdAt": "2022-07-01T00:36:08.226Z",
+    "updatedAt": "2023-01-18T12:35:43.608Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "c6362e44-778f-4020-b48e-bdcdce5645e9",
+        "amount": 15,
+        "type": "VAT",
+        "name": "VAT"
+      }
+    ]
+  },
+  {
+    "id": "e1211ba1-8470-48df-9323-05168066e6c6",
+    "name": "United Arab Emirates",
+    "countryCode": "AE",
+    "currency": "AED",
+    "externalId": 37,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "Lavoya Restaurant Group",
+    "companyVatNumber": "100597106200003",
+    "companyAddress": "Business Central Towers, Office 2103B, Dubai Media City",
+    "country": "United Arab Emirates",
+    "merchantAccount": null,
+    "applePayWebMerchantId": null,
+    "createdAt": "2022-12-07T21:36:04.245Z",
+    "updatedAt": "2023-01-18T12:35:43.611Z",
+    "deletedAt": null,
+    "taxes": [
+      {
+        "marketId": "e1211ba1-8470-48df-9323-05168066e6c6",
+        "amount": 5,
+        "type": "VAT",
+        "name": "5%"
+      }
+    ]
+  },
+  {
+    "id": "ff8f2609-cdcb-4efe-a181-b98c6fc57bfd",
+    "name": "Qatar",
+    "countryCode": "QA",
+    "currency": "QAR",
+    "externalId": 39,
+    "timezone": "Europe/Copenhagen",
+    "companyName": "F&B Hospitality",
+    "companyVatNumber": "5000240820",
+    "companyAddress": "Building 203, Street 303, Zone 69, Doha",
+    "country": "Qatar",
+    "merchantAccount": null,
+    "applePayWebMerchantId": null,
+    "createdAt": "2022-10-28T12:36:08.498Z",
+    "updatedAt": "2023-01-18T12:35:43.603Z",
+    "deletedAt": null,
+    "taxes": []
+  },
+  {
+    "id": "a6259627-b35f-46de-bd24-e51af292c4d4",
+    "name": "St. Barth",
+    "countryCode": "BL",
+    "currency": "EUR",
+    "externalId": 25,
+    "timezone": "America/St_Barthelemy",
+    "companyName": "",
+    "companyVatNumber": "",
+    "companyAddress": "",
+    "country": "",
+    "merchantAccount": null,
+    "applePayWebMerchantId": null,
+    "createdAt": "2017-10-11T06:40:15.651Z",
+    "updatedAt": "2023-01-18T12:35:43.426Z",
+    "deletedAt": null,
+    "taxes": []
+  }
+]
