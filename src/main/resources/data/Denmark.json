@@ -1,0 +1,37 @@
+[
+   {
+      "id" : "96aaa43b-ed71-4976-b0b3-169d46e691d2",
+      "name" : "Denmark",
+      "countryCode" : "DK",
+      "currency" : "DKK",
+      "externalId" : 1,
+      "timezone" : "Europe/Copenhagen",
+      "companyName" : "JOE & THE JUICE A/S",
+      "companyVatNumber" : "DK26589355",
+      "companyAddress" : "Østergade 26A, 1100 København Kd",
+      "country" : "Denmark",
+      "merchantAccount" : "JJ-DK-ECOM",
+      "applePayWebMerchantId" : null,
+      "createdAt" : "2017-10-11T06:40:15.505Z",
+      "updatedAt" : "2023-01-18T12:35:43.383Z",
+      "deletedAt" : null,
+      "taxes" : [
+         {
+            "marketId" : "96aaa43b-ed71-4976-b0b3-169d46e691d2",
+            "amount" : 25,
+            "type" : "VAT",
+            "name" : "Moms"
+         },
+         {
+            "marketId" : "96aaa43b-ed71-4976-b0b3-169d46e691d2",
+            "amount" : 123,
+            "type" : "SalesTax",
+            "name" : "Tax rate test"
+         }
+      ],
+      "location" : {
+         "latitude" : 55.686724,
+         "longitude" : 12.570072
+      }
+   }
+]
